@@ -5,7 +5,7 @@ Coding by me.
 Pictures:
 TBD
 Thank you for viewing my website!
-
+This is an American interstate route finder between the 43 major cities.
 
 
 
